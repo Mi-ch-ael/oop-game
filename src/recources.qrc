@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>res/bonus.png</file>
+        <file>res/entrance.png</file>
+        <file>res/exit.png</file>
+        <file>res/invisible.png</file>
+        <file>res/lock.png</file>
+        <file>res/mushroom.png</file>
+        <file>res/mushroom-big.png</file>
+        <file>res/wall.png</file>
+        <file>res/skull_transparent.png</file>
+    </qresource>
+</RCC>
